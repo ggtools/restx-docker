@@ -1,4 +1,4 @@
-FROM        ggtools/restx-docker
+FROM        ggtools/restx-docker:j8-latest
 MAINTAINER  Christophe Labouisse
 
 ADD restx-app.jar /tmp/restx-app.jar
