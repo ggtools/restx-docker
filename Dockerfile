@@ -1,5 +1,5 @@
 # DOCKER-VERSION 0.10.0
-FROM        ggtools/java8
+FROM        java:8
 MAINTAINER  Christophe Labouisse
 
 # Update and install curl that will be needed later
